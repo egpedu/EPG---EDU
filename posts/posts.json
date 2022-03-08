@@ -1,0 +1,30 @@
+[
+  {
+    "path": "posts/2022-03-08-felisberta/",
+    "title": "Escola Municipal Professora Maria Felisberta Baptista da Trindade",
+    "description": "A Escola Municipal Professora Maria Felisberta Baptista da Trindade, antiga Escola Municipal Infante Dom Henrique, está localizada na Engenhoca e foi inaugurada em 25 de abril de 1978.",
+    "author": [],
+    "date": "2022-03-08",
+    "categories": [
+      "obras"
+    ],
+    "contents": "\nA inauguração da unidade foi em homenagem a Infante Dom Henrique, natural do Porto – Portugal, que dedicou toda sua vida à preparação da grandeza futura da navegação portuguesa além de ter fundado, em 1416, uma Escola Naval que se tornaria mais tarde a histórica “Escola de Sagres”, que muito contribuiu para a projeção da nação Portuguesa. A alteração do nome veio para homenagear a Professora Maria Felisberta Baptista da Trindade, professora emérita da UFF e Secretária Municipal de Educação de Niterói (2002-2004), que faleceu em 2021.\n\n\n\nA unidade atende cerca de 290 alunos do Ensino Fundamental e da Educação Especial. Dispõe de 13 salas de aula, sala de artes, laboratório de ciências, sala de recursos, quadra esportiva coberta, espaços administrativos, refeitório e cozinha, sala de informática e sala de leitura. Está participando do Projeto de Expansão da Educação Integral, sendo uma das sete unidades da rede que oferecem ensino integral no Ensino Fundamental, passando por reformas e obras de adaptação.\nObras\nA seguir apresentam-se uma imagem da obra para adequação dos espaços para atendimento dos estudantes em tempo integral.\nObra\n\n\n",
+    "preview": "posts/2022-03-08-felisberta/./felisberta2.jpeg",
+    "last_modified": "2022-03-08T15:19:41-03:00",
+    "input_file": "felisberta.knit.md"
+  },
+  {
+    "path": "posts/dados/",
+    "title": "Dados",
+    "description": "Análise quantitativa e qualitativa de munícipios brasileiros com características e variáveis compatíveis com a cidade de Niterói.",
+    "author": [],
+    "date": "2022-03-07",
+    "categories": [
+      "dados"
+    ],
+    "contents": "\nBench\nTexto …\n\n\n{\"x\":{\"options\":{\"crs\":{\"crsClass\":\"L.CRS.EPSG3857\",\"code\":null,\"proj4def\":null,\"projectedBounds\":null,\"options\":{}}},\"calls\":[{\"method\":\"addTiles\",\"args\":[\"//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png\",null,null,{\"minZoom\":0,\"maxZoom\":18,\"tileSize\":256,\"subdomains\":\"abc\",\"errorTileUrl\":\"\",\"tms\":false,\"noWrap\":false,\"zoomOffset\":0,\"zoomReverse\":false,\"opacity\":1,\"zIndex\":1,\"detectRetina\":false,\"attribution\":\"&copy; <a href=\\\"http://openstreetmap.org\\\">OpenStreetMap<\\/a> contributors, <a href=\\\"http://creativecommons.org/licenses/by-sa/2.0/\\\">CC-BY-SA<\\/a>\"}]},{\"method\":\"addMarkers\",\"args\":[[-21.7289999,-8.9759346,-20.1613061,-29.0756353,-22.917929,0.1021154,-21.757686,-27.6014342,-20.378454,-23.6676171],[-43.522607,-66.7692131,-40.424577,-51.3263337,-43.078987,-51.2369517,-41.3270377,-48.4924327,-40.3235557,-46.4417617],null,null,null,{\"interactive\":true,\"draggable\":false,\"keyboard\":true,\"title\":\"\",\"alt\":\"\",\"zIndexOffset\":0,\"opacity\":1,\"riseOnHover\":false,\"riseOffset\":250},[\"Juiz de Fora\",\"Porto Velho\",\"Serra\",\"Caxias do Sul\",\"Niterói\",\"Macapá\",\"Campos dos Goytacazes\",\"Florianópolis\",\"Vila Velha\",\"Mauá\"],null,null,null,null,{\"interactive\":false,\"permanent\":false,\"direction\":\"auto\",\"opacity\":1,\"offset\":[0,0],\"textsize\":\"10px\",\"textOnly\":false,\"className\":\"\",\"sticky\":true},null]}],\"limits\":{\"lat\":[-29.0756353,0.1021154],\"lng\":[-66.7692131,-40.3235557]}},\"evals\":[],\"jsHooks\":[]}\nReceita Orçamentária\n\n\nMunicípio\n\n\nOrcamento\n\n\nNiterói\n\n\nR$ 3.489.440.800\n\n\nVila Velha\n\n\nR$ 1.059.599.300\n\n\nSerra\n\n\nR$ 1.567.043.400\n\n\nPorto Velho\n\n\nR$ 1.620.244.900\n\n\nMauá\n\n\nR$ 1.185.463.300\n\n\nMacapá\n\n\nR$ 980.106.300\n\n\nJuiz de Fora\n\n\nR$ 1.961.756.200\n\n\nFlorianópolis\n\n\nR$ 2.134.730.000\n\n\nCaxias do Sul\n\n\nR$ 1.986.709.000\n\n\nCampos dos Goytacazes\n\n\nR$ 1.620.902.700\n\n\n\nDistribuição das escolas\n\n\nMunicípio\n\n\nTotal_de_Unidades\n\n\nNiterói\n\n\n94\n\n\nVila Velha\n\n\n101\n\n\nSerra\n\n\n141\n\n\nPorto Velho\n\n\n141\n\n\nMauá\n\n\n44\n\n\nMacapá\n\n\n98\n\n\nJuiz de Fora\n\n\n132\n\n\nFlorianópolis\n\n\n120\n\n\nCaxias do Sul\n\n\n83\n\n\nCampos dos Goytacazes\n\n\n234\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "preview": "posts/dados/Dados_files/figure-html5/unnamed-chunk-4-1.png",
+    "last_modified": "2022-03-08T15:28:26-03:00",
+    "input_file": "Dados.knit.md"
+  }
+]
