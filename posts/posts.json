@@ -14,6 +14,20 @@
     "input_file": "felisberta.knit.md"
   },
   {
+    "path": "posts/2022-03-08-domjos/",
+    "title": "Escola Municipal Dom José Pereira Alves",
+    "description": "A Escola Municipal Dom José Pereira Alves, localizada na Vila Ipiranga/Fonseca, teve sua origem iniciada em 1942, ainda com a Fundação Lar Operário Fluminense em ações de assistência social às comunidades.",
+    "author": [],
+    "date": "2022-03-08",
+    "categories": [
+      "obras"
+    ],
+    "contents": "\nApós a criação da escola primária, a unidade passou a se chamar Grupo Escolar Dom José Pereira Alves em 1950. Em 1961, passou a ser gerida pela Secretaria Estadual de Educação e foi municipalizada pela Prefeitura de Niterói em 2010. O nome da unidade é uma homenagem ao Bispo José Pereira Alves, pernambucano que recebeu o título de Bispo na cidade de Niterói, em 1948. Além das vocações religiosas, ele direcionou suas orientações para o campo das letras e das ciências e foi sócio de diversas agremiações, como a Academia de Letras Fluminense.\n\n\n\nA partir de 2022, a escola passou a oferecer educação em tempo integral para o ensino fundamental a partir de uma parceria entre a Secretaria Municipal de Educação e o Espaço Nova Geração, um projeto vinculado ao Pacto Niterói Contra a Violência. A unidade trabalha, com os alunos, projetos que visam a valorização dos moradores da comunidade e o conhecimento da história da Vila Ipiranga.\nObras\nA seguir apresentam-se uma imagem da obra para adequação dos espaços para atendimento dos estudantes em tempo integral.\nObra\n\n\n",
+    "preview": "posts/2022-03-08-domjos/./domjose1.jpeg",
+    "last_modified": "2022-03-08T16:50:10-03:00",
+    "input_file": "domjos.knit.md"
+  },
+  {
     "path": "posts/dados/",
     "title": "Dados",
     "description": "Análise quantitativa e qualitativa de munícipios brasileiros com características e variáveis compatíveis com a cidade de Niterói.",
