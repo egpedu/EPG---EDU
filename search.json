@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "Sobre o EGP",
-      "description": "Some additional details about the blog",
+      "title": "Sobre",
+      "description": "Esta plataforma tem como objetivo central o foco na centralização dos dados, não apenas para garantir um maior controle dos mesmo, mas também sobre responsabilidades pela geração dos mesmos, bem como qual será a periodicidade que estes dados serão entregues.",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-03-08T00:04:15-03:00"
+      "contents": "\nA Secretaria Municipal de Educação de Niterói-SME, cidade da região metropolitana do Estado do Rio de Janeiro, é responsável por mais de 30.000 estudantes, conta 94 unidades de educação, atendendo desde a Educação Infantil até o 9º ano do Ensino Fundamental, nas modalidades Regular e Educação de Jovens e Adultos. O quadro efetivo conta com mais de 4500 servidores. Com o objetivo de promover, formalizar parcerias e garantir a transferência de recursos foi criado o Escritório de Gestão de Projetos da SME – EGP Setorial. O escritório busca proporcionar maior eficiência e controle sobre os investimentos públicos e seus resultados. Para tal análise a metodologia adotada foi o Estudo de Caso, tendo em vista que proposição das estratégias foram propostas em resposta a uma situação específica para a situação-problema estabelecida. GOLDENBERG (2004) comenta que só se adquire conhecimento sobre determinado fenômeno a partir de sua intensa exploração, e permite completa compreensão. A realização deste trabalho se dá, principalmente, a partir da observação das atividades dos gestores da Secretaria Municipal de Educação de Niterói e da necessidade de obtenção de indicadores para a tomada de decisão cada vez mais rápida e que propiciem maior assertividade. Esta plataforma tem como objetivo central o foco na centralização dos dados, não apenas para garantir um maior controle dos mesmo, mas também sobre responsabilidades pela geração dos mesmos, bem como qual será a periodicidade que estes dados serão entregues.\n\n\n\n",
+      "last_modified": "2022-03-08T22:29:47-03:00"
     },
     {
       "path": "index.html",
       "title": "EGP Dados",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-03-08T00:10:13-03:00"
+      "last_modified": "2022-03-08T22:26:03-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
